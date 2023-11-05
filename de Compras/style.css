@@ -180,6 +180,12 @@ body {
     text-align: center;
 }
 
+#india img{
+    height: 80px;
+    position: absolute; 
+    margin: -5px 25px;
+    right: 25%;
+}
 /* Feature Box */
 
 #feature {
