@@ -265,7 +265,7 @@ body {
 }
 
 #product-1 .pro .des i {
-    color: #357960;
+    color: #f4ce14;
 }
 
 #product-1 .pro .des h5{
@@ -303,7 +303,7 @@ body {
 
 #banner .container {
     width: 100%;
-    height: 65vh;
+    height: 50vh;
 }
 
 #banner .container .banner {
