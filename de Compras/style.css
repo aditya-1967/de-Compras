@@ -476,6 +476,10 @@ body {
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
 }
 
+footer {
+    background: #e3e6f3;
+    padding: 20px 40px;
+}
 
 footer p {
     color: #1a1a1a;
